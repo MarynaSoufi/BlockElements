@@ -1,0 +1,27 @@
+body {
+    background-image: url(../img/6-fon-dlya-sayta.jpg);
+    margin: 0;
+}
+.product-item__title {
+    margin: 10px auto;
+    width: 50%;
+    border: 1px solid gray;
+    line-height: 2;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.product-item__descr {
+    
+}
+.product-item {
+    background-color: rgb(255, 192, 203 );
+    
+    padding: 10px 15px;
+    border-radius: 50px 0px;
+    box-shadow: rgb(119, 113, 113)  0 0 20px 10px;
+    height: 100vh;
+    background-image: url(../img/download.jpg);
+    background-size: cover;
+   
+}
